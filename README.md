@@ -35,7 +35,7 @@ Aplikasi ini dikembangkan sebagai implementasi konsep Full Stack Web Development
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/ReelRate.git](https://github.com/KresnaJelek713/ReelRate-Movie_Review_Website/tree/main
+git clone https://github.com/KresnaJelek713/ReelRate-Movie_Review_Website
 cd ReelRate
 ```
 
